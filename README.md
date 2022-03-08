@@ -1,6 +1,6 @@
 # Mario Student Facing
 
-For this tutorial, we will cover building a mini replica of the classic nintendo game, Mario. The tutorial will utilize a JavaScript library called Kaboom.js.
+For this tutorial, we will build a mini replica of the classic nintendo game, Mario. The tutorial will utilize a JavaScript library called Kaboom.js.
 
 ## Tutorial Resources
 
