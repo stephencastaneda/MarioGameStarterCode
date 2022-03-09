@@ -26,7 +26,26 @@ loadSprite('pipe-bottom-left', 'c1cYSbt.png')
 loadSprite('pipe-bottom-right', 'nqQ79eI.png')
 ```
 
-Map Level 1
+Map Level 1 Part A
+
+```
+ [
+      '                                      ',
+      '                                      ',
+      '                                      ',
+      '                                      ',
+      '                                      ',
+      '                                      ',
+      '                                      ',
+      '                                      ',
+      '                                      ',
+      '==============================   =====',
+    ],
+```
+
+
+
+Map Level 1 Part B
 
 ```
  [
